@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "90f0c74c39ddaaab",
+        "id": "ce144f5bd7643df3",
         "type": "tabs",
         "children": [
           {
-            "id": "1ded205cc22e9d96",
+            "id": "830ca47bce731a17",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -136,21 +136,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2d2b1dc46769e69b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,14 +169,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c971d2bba1661869",
+  "active": "2d2b1dc46769e69b",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "backend-notes.md",
+    "backend-notes/Debugging Display.md",
+    "Untitled.base",
+    "Untitled.md",
+    "Welcome.md",
     "README.md",
     "backend-notes",
-    "frontend-notes",
-    "Welcome.md"
+    "frontend-notes"
   ]
 }
