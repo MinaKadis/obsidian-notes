@@ -18,5 +18,9 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 1,
-  "close": true
+  "close": true,
+  "groups": [
+    { "query": "path:^backend-notes/", "color": 0 },
+    { "query": "path:^frontend-notes/", "color": 1 }
+  ]
 }
